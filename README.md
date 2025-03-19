@@ -1,32 +1,17 @@
 # TexelCV | Facial Texture Analysis for Deepfake Detection  
 
-## Navigation Sidebar  
+## Navigation  
 
-| Section | Description |  
-|---------|-------------|  
+| **Section** | **Description** |  
+|------------|----------------|  
 | [Home](README.md) | Main project overview |  
 | [About Computer Vision](about_cv.md) | Introduction to Computer Vision |  
 | [TexelCV Prototype](prototype.md) | System architecture and deepfake detection pipeline |  
 | [Technology Stack](tech_stack.md) | Tools and frameworks used in development |  
 | [Frequently Asked Questions](faq.md) | Common inquiries about TexelCV and its applications |  
-| [Return to GitHub Repository](https://github.com/timedilationv2/texelcv) | Navigate back to repository home |  # TexelCV | Facial Texture Analysis for Deepfake Detection  
+| [Return to GitHub Repository](https://github.com/timedilationv2/texelcv) | Navigate back to repository home |  
 
-TexelCV is a research-driven prototype that leverages **Computer Vision (CV)** to detect synthetic media through **Facial Texture Analysis**. The system employs a multi-layer approach, analyzing **facial inconsistencies, GAN fingerprints, and behavioral irregularities** such as unnatural blinking patterns.
-
-TexelCV is designed to support **real-time deepfake detection**, with applications in security, media verification, and digital identity authentication.
-
-***
-
-## Contents  
-
-| Section | Description |  
-|---------|-------------|  
-| **[About Computer Vision](about_cv.md)** | Overview of Computer Vision and its role in deepfake detection |  
-| **[TexelCV Prototype](prototype.md)** | System architecture and detection pipeline |  
-| **[Technology Stack](tech_stack.md)** | Tools and frameworks used in development |  
-| **[Frequently Asked Questions](faq.md)** | Common inquiries about TexelCV and its applications |  
-
-***
+---
 
 ## Core Features  
 
@@ -36,7 +21,7 @@ TexelCV is designed to support **real-time deepfake detection**, with applicatio
 - Supports **real-time image and video processing**  
 - Can integrate with **forensic tools and authentication systems**  
 
-***
+---
 
 ## Technology Stack  
 
@@ -49,7 +34,7 @@ TexelCV is designed to support **real-time deepfake detection**, with applicatio
 | **Docker** | Containerized deployment for scalability |  
 | **GitHub Actions** | Continuous integration and testing |  
 
-***
+---
 
 ## Frequently Asked Questions (FAQ)  
 
@@ -65,18 +50,33 @@ While TexelCV provides high accuracy, deepfake detection success depends on the 
 ### **Is TexelCV open source?**  
 Yes, TexelCV promotes open-source collaboration to advance research in media forensics and AI security.  
 
-***
+---
 
 ## Repository and Contributions  
 
 TexelCV is an open-source initiative. Contributions, feature requests, and improvements are welcome.  
 Visit the repository at **[TexelCV on GitHub](https://github.com/timedilationv2/texelcv)**.  
 
-**Back to [Top](#) | [timedilationv2 Home](https://github.com/timedilationv2)**  
+**[Back to Top](#) | [Return to GitHub Repository](https://github.com/timedilationv2/texelcv)**  
 
-***
+---
 
-**TexelCV | Open Source AI Security Research**  
-**Arsalan Khan | Seattle, Washington | 2025**  
+### **Fix Summary**
+1. **Ensure the table is correctly formatted**  
+   - Pipes `|` must align correctly to avoid rendering issues.  
+2. **Ensure the table appears at the very top of the README**  
+   - If too far down, users must scroll to see it.  
+3. **Remove `{target="_blank"}`**  
+   - GitHub **does not support this** in Markdown.  
 
-*"Advancing open-source intelligence for knowledge, equity, diversity, and security."*
+---
+
+### **How to Fix This in Your Repository**
+1. Open your repository:  
+   [https://github.com/timedilationv2/texelcv](https://github.com/timedilationv2/texelcv)  
+
+2. **Edit `README.md`** and replace your navigation structure with the one provided.  
+
+3. **Commit the changes and refresh the repository page.**  
+
+Your navigation should now appear correctly at the top of your GitHub README.
