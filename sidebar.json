@@ -1,0 +1,24 @@
+{
+    "sidebar": [
+        {
+            "title": "Home",
+            "link": "README.md"
+        },
+        {
+            "title": "About CV",
+            "link": "about_cv.md"
+        },
+        {
+            "title": "TexelCV Prototype",
+            "link": "prototype.md"
+        },
+        {
+            "title": "Tech Stack",
+            "link": "tech_stack.md"
+        },
+        {
+            "title": "FAQ",
+            "link": "faq.md"
+        }
+    ]
+}
