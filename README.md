@@ -1,5 +1,16 @@
 # TexelCV | Facial Texture Analysis for Deepfake Detection  
 
+## Navigation Sidebar  
+
+| Section | Description |  
+|---------|-------------|  
+| [Home](README.md) | Main project overview |  
+| [About Computer Vision](about_cv.md) | Introduction to Computer Vision |  
+| [TexelCV Prototype](prototype.md) | System architecture and deepfake detection pipeline |  
+| [Technology Stack](tech_stack.md) | Tools and frameworks used in development |  
+| [Frequently Asked Questions](faq.md) | Common inquiries about TexelCV and its applications |  
+| [Return to GitHub Repository](https://github.com/timedilationv2/texelcv) | Navigate back to repository home |  # TexelCV | Facial Texture Analysis for Deepfake Detection  
+
 TexelCV is a research-driven prototype that leverages **Computer Vision (CV)** to detect synthetic media through **Facial Texture Analysis**. The system employs a multi-layer approach, analyzing **facial inconsistencies, GAN fingerprints, and behavioral irregularities** such as unnatural blinking patterns.
 
 TexelCV is designed to support **real-time deepfake detection**, with applications in security, media verification, and digital identity authentication.
